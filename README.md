@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Anshul Panigrahi 👋
 
 I'm a passionate developer who loves building clean, efficient, and impactful software. I enjoy exploring new technologies, solving real-world problems, and continuously improving my skills.
 
@@ -9,10 +9,10 @@ I'm a passionate developer who loves building clean, efficient, and impactful so
 - **Databases:** MySQL, MongoDB
 
 ## 🔭 Current Projects
-- Working on [Consultancy-Services](https://github.com/yourusername/Consultancy-Services) – a solution designed to streamline and manage consulting workflows.
+- Working on [Consultancy-Services]([https://github.com/yourusername/Consultancy-Services)](https://github.com/burntcookiedough/Consultancy-Services) – a solution designed to streamline and manage consulting workflows.
 
 ## 📫 Contact Me
-- Email: your.email@example.com
+- Email: anshulpanigrahi3678@gmail.com
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true)
