@@ -5,8 +5,8 @@ I'm a passionate developer who loves building clean, efficient, and impactful so
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python, JavaScript, C++
 - **Web:** HTML, CSS, React, Node.js
-- **Tools & Platforms:** Git, Docker, VS Code, GitHub Actions
-- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, VS Code 
+- **Databases:** SQL, MongoDB
 
 ## 🔭 Current Projects
 - Working on [Consultancy-Services]([https://github.com/yourusername/Consultancy-Services)](https://github.com/burntcookiedough/Consultancy-Services) – a solution designed to streamline and manage consulting workflows.
