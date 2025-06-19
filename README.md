@@ -18,6 +18,6 @@ I'm a passionate developer who loves building clean, efficient, and impactful so
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true)
 
----
+--- 
 
 Thanks for visiting my profile! 👋
