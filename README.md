@@ -1,66 +1,35 @@
 # Anshul Panigrahi
 
 **Networking, Cloud & Automation Enthusiast**  
-B.Tech in Information Technology @ VIT, Vellore (Graduating July 2027)  
+B.Tech in Information Technology @ VIT, Vellore (Graduating July 2027)
 
-Passionate about building scalable systems, automating infrastructure, and deploying secure cloud-native solutions.  
-Focused on delivering real-world impact: faster server provisioning, optimized bandwidth usage, and innovative hackathon projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A73E8&size=22&lines=Networking+%7C+Cloud+%7C+Automation;Python+%7C+AWS+%7C+DevOps;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
-- Strong foundation in **Computer Networks, Cloud Architecture, and Automation**  
-- Experienced in **Cisco routing/switching, AWS, Docker, Jenkins, and Infrastructure Scripting**  
-- Delivered real impact: reduced setup time by 40%, optimized network bandwidth by 60%  
-- Hackathon Builder: 2nd Place at IEEE CS Hackathon 2025, Finalist at Yantra 2025  
-- Preparing for **AWS Cloud Practitioner Certification (Dec 2025)**  
+- Experienced in **Networking (Cisco), Cloud (AWS), and Infrastructure Automation**  
+- Strong scripting skills in **Python, Bash, PowerShell**  
+- Achieved: 40% faster server setup, 60% reduced bandwidth usage  
+- Hackathon Competitor: Finalist at **Yantra 2025** (*Fingerprint Spoofing Detection*)  
+- Exploring **DevOps pipelines, Hybrid Cloud architectures, and ML-driven system monitoring**  
 
 ---
 
-## Skills
-
-**Languages**  
-Python · JavaScript · Java · C++ · SQL  
-
-**Networking**  
-Routing & Switching · Packet Analysis · Network Troubleshooting  
-
-**Cloud & DevOps**  
-AWS · Docker · Jenkins · CI/CD · Git · GitHub  
-
-**Tools & OS**  
-Wireshark · NGINX · Squid · PowerShell · Bash · Windows · Ubuntu  
+## Tech Stack
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,java,cpp,aws,docker,linux,nginx,git,github" /></a>
+</p>
 
 ---
 
 ## Featured Projects
-
-### Server Automation & Optimization
-- Automated lab provisioning with Python + Batch scripts  
-- Reduced setup time by ~40% and standardized deployment  
-
-### Raspberry Pi–Powered Local CDN
-- Designed LAN bandwidth-saving system (Nginx + Squid on Raspberry Pi)  
-- Achieved ~60% external bandwidth reduction for 20+ concurrent users  
-
-### SpineGuard – Real-time Posture Correction
-- Built with Arduino, Flask ML, and Next.js  
-- 2nd Place at IEEE CS Hackathon 2025  
-
-### Fingerprint Spoofing Detection System
-- TensorFlow ML model deployed via FastAPI + React  
-- Achieved high classification accuracy; finalist at Yantra Hackathon 2025  
-
----
-
-## Achievements
-- **2nd Place** – IEEE CS Hackathon 2025 (*SpineGuard Posture Correction System*)  
-- **Finalist** – Yantra Central Hackathon 2025 (*Fingerprint Spoofing Detection*)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=raspberry-pi-cdn&theme=tokyonight)](https://github.com/burntcookiedough/raspberry-pi-cdn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=fingerprint-detection&theme=tokyonight)](https://github.com/burntcookiedough/fingerprint-detection)
 
 ---
 
 ## GitHub Highlights
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burntcookiedough&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=tokyonight" height="150" />
@@ -80,10 +49,6 @@ Wireshark · NGINX · Squid · PowerShell · Bash · Windows · Ubuntu
 ## Contact
 - **Email**: [anshulpanigrahi3678@gmail.com](mailto:anshulpanigrahi3678@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
-- **Portfolio Website (coming soon)**: [yourdomain.com](#)  
 - **GitHub**: [github.com/burntcookiedough](https://github.com/burntcookiedough)  
 
 ---
-
-### Closing Note
-*"I believe in combining networking depth, automation skills, and cloud-native solutions to simplify complex problems with measurable impact."*
