@@ -1,50 +1,35 @@
----
+# Anshul Panigrahi
 
-### Welcome to my GitHub Profile  
+**Networking, Cloud & Automation Enthusiast**  
+B.Tech in Information Technology @ VIT, Vellore (Graduating July 2027)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A73E8&size=22&lines=Networking+%7C+Cloud+%7C+Automation;Python+%7C+AWS+%7C+DevOps;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
-- B.Tech IT student @ VIT, Vellore (Grad: 2027)  
-- Hands-on with **Networks · Cloud · Automation**  
-- Reduced server setup times by 40%, optimized LAN bandwidth by 60%  
-- Building reliable, reproducible systems for hackathons and labs  
-
----
-
-## Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- Experienced in **Networking (Cisco), Cloud (AWS), and Infrastructure Automation**  
+- Strong scripting skills in **Python, Bash, PowerShell**  
+- Achieved: 40% faster server setup, 60% reduced bandwidth usage  
+- Hackathon Competitor: Finalist at **Yantra 2025** (*Fingerprint Spoofing Detection*)  
+- Exploring **DevOps pipelines, Hybrid Cloud architectures, and ML-driven system monitoring**  
 
 ---
 
 ## Tech Stack
-
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,js,java,cpp,aws,docker,linux,nginx,git,github" /></a>
 </p>
 
 ---
 
-## Dev Activity Badges
-
-![Commit Activity](https://img.shields.io/github/commit-activity/m/burntcookiedough/burntcookiedough?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/burntcookiedough/burntcookiedough?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=burntcookiedough&color=blue&style=flat-square)
-
----
-
 ## Featured Projects
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=raspberry-pi-cdn&theme=tokyonight)](https://github.com/burntcookiedough/raspberry-pi-cdn)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=fingerprint-detection&theme=tokyonight)](https://github.com/burntcookiedough/fingerprint-detection)
 
 ---
 
 ## GitHub Highlights
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burntcookiedough&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=tokyonight" height="150" />
