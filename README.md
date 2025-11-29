@@ -3,8 +3,6 @@
 **Networking, Cloud & Automation Enthusiast**  
 B.Tech in Information Technology @ VIT, Vellore (Graduating July 2027)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A73E8&size=22&lines=Networking+%7C+Cloud+%7C+Automation;Python+%7C+AWS+%7C+DevOps;Always+Learning+New+Things)](https://git.io/typing-svg)
-
 ---
 
 ## About Me
