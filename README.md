@@ -1,52 +1,94 @@
 # Anshul Panigrahi
 
-**Networking, Cloud & Automation Enthusiast**  
-B.Tech in Information Technology @ VIT, Vellore (Graduating July 2027)
+**Cloud • Networking • Infrastructure Automation**  
+B.Tech Information Technology — VIT Vellore (Graduating July 2027)
 
 ---
 
-## About Me
-- Experienced in **Networking (Cisco), Cloud (AWS), and Infrastructure Automation**  
-- Strong scripting skills in **Python, Bash, PowerShell**  
-- Achieved: 40% faster server setup, 60% reduced bandwidth usage  
-- Hackathon Competitor: Finalist at **Yantra 2025** (*Fingerprint Spoofing Detection*)  
-- Exploring **DevOps pipelines, Hybrid Cloud architectures, and ML-driven system monitoring**  
+## Snapshot
+- Strong foundation in **Networking, Cloud, and Systems Automation**
+- Comfortable with **Linux internals, scripting, and infrastructure debugging**
+- Built and deployed real systems with **measurable performance gains**
+- Hackathon Finalist — **Yantra 2025 (Biometric Security)**
+
+Actively seeking **Cloud / DevOps / Infrastructure / Platform Engineering internships**.
 
 ---
 
-## Tech Stack
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,java,cpp,aws,docker,linux,nginx,git,github" /></a>
-</p>
+## Core Skills
+
+**Programming & Scripting**
+- Python, Bash, PowerShell  
+- Automation, system scripts, API integration
+
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM, networking fundamentals)
+- Docker, Linux, NGINX
+- Server provisioning, performance tuning
+
+**Networking & Systems**
+- Cisco Networking fundamentals
+- Linux system administration
+- Bandwidth optimization, edge deployments
+
+**Tools**
+- Git, GitHub
+- Vercel (serverless deployments)
 
 ---
 
-## Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=raspberry-pi-cdn&theme=tokyonight)](https://github.com/burntcookiedough/raspberry-pi-cdn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=fingerprint-detection&theme=tokyonight)](https://github.com/burntcookiedough/fingerprint-detection)
+## Selected Projects
+
+### Raspberry Pi CDN
+**Edge-based local content delivery system**
+
+- Designed a lightweight CDN using Raspberry Pi nodes
+- Reduced upstream bandwidth usage by **~60%**
+- Improved local content access latency
+- Focused on **practical networking + systems design**, not theory
+
+🔗 https://github.com/burntcookiedough/raspberry-pi-cdn
 
 ---
 
-## GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burntcookiedough&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=tokyonight" height="150" />
-</p>
+### Fingerprint Spoofing Detection (Hackathon Project)
+**ML-based biometric security system**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=burntcookiedough&theme=tokyonight" height="150" />
-</p>
+- Built during **Yantra 2025 Hackathon**
+- Detects spoofed fingerprint inputs
+- Emphasis on **security, reliability, and real-world constraints**
+- Achieved **Finalist** position
+
+🔗 https://github.com/burntcookiedough/fingerprint-detection
 
 ---
 
-## Activity Overview
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=burntcookiedough&bg_color=0d1117&color=58a6ff&line=4a90e2&point=ffffff&area=true&hide_border=true)
+## Engineering Highlights
+
+- Automated infrastructure workflows resulting in:
+  - **40% faster server setup**
+  - **60% bandwidth reduction**
+- Self-hosted and debugged a **GitHub stats service** on Vercel
+  - Resolved runtime, environment variable, and deployment issues
+  - Demonstrated real-world cloud debugging (Node vs Edge runtime)
+
+---
+
+## GitHub Activity (Self-Hosted)
+
+![GitHub Stats](https://github-readme-stats-seven-opal-46.vercel.app/api?username=burntcookiedough&theme=tokyonight&show_icons=true&hide_border=true)
+
+---
+
+## What I’m Looking For
+Internship roles where I can:
+- Work on **cloud infrastructure, DevOps, or platform systems**
+- Debug real production-like issues
+- Learn from experienced engineers while shipping useful systems
 
 ---
 
 ## Contact
-- **Email**: [anshulpanigrahi3678@gmail.com](mailto:anshulpanigrahi3678@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
-- **GitHub**: [github.com/burntcookiedough](https://github.com/burntcookiedough)  
-
----
+- **Email:** anshulpanigrahi3678@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN  
+- **GitHub:** https://github.com/burntcookiedough
