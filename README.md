@@ -62,11 +62,6 @@ I focus on **robustness, security, and automation**. Whether it's debugging a ru
 - **The Solution:** A hybrid model (Logistic Regression + Random Forest) deployed on **AWS Lambda**.
 - **Tech:** AWS (Lambda, S3, CloudFront), Python, Scikit-learn.
 
-### 🌐 [Raspberry Pi CDN](#)
-*Edge-based content delivery for local networks.*
-- **Metric:** Reduced upstream bandwidth usage by **~60%**.
-- **Tech:** NGINX, Linux Networking, Caching strategies.
-
 ---
 
 ## 📊 GitHub Analytics (Self-Hosted)
