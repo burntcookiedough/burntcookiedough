@@ -1,149 +1,90 @@
-# Anshul Panigrahi
+<div align="center">
 
-**Cloud • Networking • Systems • Security**  
-B.Tech Information Technology — VIT Vellore (Graduating July 2027)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Cloud+%E2%80%A2+Networking+%E2%80%A2+Systems+%E2%80%A2+Security;Building+Systems+That+Run;VIT+Vellore+%7C+Information+Technology" alt="Typing SVG" />
 
----
+  <p align="center">
+    <b>Systems Engineer in the making.</b> <br>
+    I build security-focused infrastructure, optimize network bandwidth, and deploy ML models to the edge.
+  </p>
 
-## Snapshot
-- Hands-on experience building **systems that run**, not just demos
-- Strong fundamentals in **Networking, Cloud, Linux, and Automation**
-- Built **security-focused systems** spanning ML, backend, and infrastructure
-- Comfortable debugging **real deployment issues** (runtime, secrets, infra)
-
-Actively seeking **Cloud / DevOps / Infrastructure / Security internships**.
-
----
-
-## Core Skills
-
-**Programming & Automation**
-- Python, Bash, PowerShell
-- Backend APIs, system scripting, automation workflows
-
-**Cloud & Infrastructure**
-- AWS (EC2, S3, IAM, serverless concepts)
-- Docker, Linux, NGINX
-- Vercel (serverless deployments, runtime control)
-
-**Networking & Systems**
-- Cisco Networking fundamentals
-- Linux system internals
-- Bandwidth optimization, edge deployments
-
-**Security & ML**
-- Malware detection, URL risk analysis
-- Feature engineering, Random Forest, Logistic Regression
-- YARA, entropy analysis, heuristic + ML pipelines
+  <p align="center">
+    <a href="mailto:anshulpanigrahi3678@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/burntcookiedough">
+      <img src="https://img.shields.io/badge/GitHub-burntcookiedough-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Selected Projects
+## ⚡ Engineering Philosophy
+> "I build systems that run, not just demos."
 
-### TorrentGuard — Secure Torrent Client with Real-Time Malware Detection
-**AI-powered torrent security system (Full-stack)**
-
-- Designed a **piece-level malware scanning pipeline** for torrents
-- Scans data *during download*, not after completion
-- Combined:
-  - Entropy analysis
-  - YARA signature matching
-  - Random Forest ML model (NSL-KDD features)
-- Automatically **quarantines malicious downloads**
-- Real-time dashboard using **Flask + WebSockets**
-- Integrated with **qBittorrent API** and mock torrent engine for testing
-
-**Key takeaway:** Systems + security + ML working together in real time.
+I focus on **robustness, security, and automation**. Whether it's debugging a runtime error in a serverless function, optimizing a torrent client for malware detection, or reducing bandwidth by 60% with a home-brew CDN—I enjoy the messy reality of deployment.
 
 ---
 
-### Veri-Dose — Smart Pill Dispenser with On-Device AI Verification
-**Edge AI + healthcare safety system**
+## 🛠️ Technical Arsenal
 
-- Built a **dual-verification system**:
-  - User authentication
-  - Pill image classification
-- On-device ML inference (MobileNet-based)
-- Designed for **privacy-first, offline operation**
-- Raspberry Pi–based edge deployment
-- Emphasis on **safety, reliability, and auditability**
+<div align="center">
 
-**Key takeaway:** Edge AI + embedded systems + real-world constraints.
+| **Core & Scripting** | **Cloud & Infrastructure** | **Security & Networking** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Networking](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) <br> ![YARA](https://img.shields.io/badge/YARA-CC0000?style=for-the-badge&logo=checkmarx&logoColor=white) <br> ![ML](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+
+</div>
 
 ---
 
-### Machine-Learning Driven QR Code Security System (IPR / Patent Disclosure)
-**Serverless ML system for real-time URL risk assessment**
+## 🚀 Featured Projects
 
-- Designed a **cloud-native QR security pipeline**
-- Hybrid ML model (Logistic Regression + Random Forest)
-- Extracts **lexical, structural, and behavioral URL features**
-- Classifies URLs as:
-  - Safe → direct QR
-  - Suspicious → warning page
-  - Dangerous → blocked page
-- Built on **AWS Lambda, S3, CloudFront**
-- Addressed SSRF, obfuscated URLs, punycode domains
+### 🛡️ [TorrentGuard: Real-Time Malware Defense](#)
+*A secure torrent client that scans data during download—not after.*
+- **The Challenge:** Detecting malware in incomplete files without stopping the download.
+- **The Solution:** Combined **Entropy Analysis + YARA signatures + Random Forest** on file pieces.
+- **Tech:** Python, Flask, WebSockets, qBittorrent API.
+- **Impact:** Automatically quarantines malicious chunks in real-time.
 
-**Key takeaway:** Security-first ML + serverless architecture.
+### 💊 [Veri-Dose: Edge AI for Healthcare](#)
+*Privacy-first smart pill dispenser running strictly offline.*
+- **The Challenge:** Running accurate ML on low-power hardware without cloud latency or privacy risks.
+- **The Solution:** Optimized **MobileNet** inference running locally on Raspberry Pi.
+- **Tech:** Python, TensorFlow Lite, Raspberry Pi, Embedded Systems.
 
----
+### 🔍 [QR Code Security System](#)
+*Serverless ML pipeline for URL risk assessment.*
+- **The Challenge:** Handling SSRF and obfuscated URLs at scale.
+- **The Solution:** A hybrid model (Logistic Regression + Random Forest) deployed on **AWS Lambda**.
+- **Tech:** AWS (Lambda, S3, CloudFront), Python, Scikit-learn.
 
-### Raspberry Pi CDN
-**Edge-based content delivery system**
-
-- Built a **local CDN using Raspberry Pi nodes**
-- Reduced upstream bandwidth usage by **~60%**
-- Improved content access latency on local networks
-- Focused on **network efficiency and edge computing**
-
-**Key takeaway:** Practical networking and performance optimization.
-
----
-
-### Fingerprint Spoofing Detection (Hackathon — Yantra 2025)
-**ML-based biometric security system**
-
-- Built during **Yantra 2025 Hackathon**
-- Focused on detecting spoofed fingerprint inputs
-- Achieved **Finalist position**
-- Emphasis on **security robustness over accuracy chasing**
+### 🌐 [Raspberry Pi CDN](#)
+*Edge-based content delivery for local networks.*
+- **Metric:** Reduced upstream bandwidth usage by **~60%**.
+- **Tech:** NGINX, Linux Networking, Caching strategies.
 
 ---
 
-## Infrastructure & Deployment Highlights
+## 📊 GitHub Analytics (Self-Hosted)
 
-- **Self-hosted GitHub Stats Service**
-  - Deployed on Vercel using **Node.js serverless**
-  - Debugged:
-    - Edge vs Node runtime mismatch
-    - Environment variable injection
-    - Secure PAT handling
-  - Result: Stable, self-owned production endpoint
+I host my own stats service on Vercel to manage runtime controls and API limits.
 
-- Automated workflows leading to:
-  - **40% faster server setup**
-  - **60% bandwidth reduction**
+<div align="center">
+  <img src="https://github-readme-stats-seven-opal-46.vercel.app/api?username=burntcookiedough&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160" alt="Stats Card" />
+  
+  <img src="https://github-readme-stats-seven-opal-46.vercel.app/api/top-langs/?username=burntcookiedough&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Languages" />
+</div>
 
-This README itself reflects **systems ownership**, not copy-paste tooling.
+<br>
+
 
 ---
 
-## GitHub Activity (Self-Hosted)
-
-![GitHub Stats](https://github-readme-stats-seven-opal-46.vercel.app/api?username=burntcookiedough&theme=tokyonight&show_icons=true&hide_border=true)
-
----
-
-## What I’m Looking For
-Internships where I can:
-- Work on **cloud, infra, security, or platform systems**
-- Debug real deployment and runtime issues
-- Learn by shipping and maintaining production-like systems
-
----
-
-## Contact
-- **Email:** anshulpanigrahi3678@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN  
-- **GitHub:** https://github.com/burntcookiedough
+<div align="center">
+  <p><b>Open to Internships in Cloud, DevOps, and Security.</b><br>
+  <i>Let's build something scalable.</i></p>
+</div>
