@@ -25,7 +25,7 @@
 ## ⚡ Engineering Philosophy
 > "I build systems that run, not just demos."
 
-I focus on **robustness, security, and automation**. Whether it's debugging a runtime error in a serverless function, optimizing a torrent client for malware detection, or reducing bandwidth by 60% with a home-brew CDN—I enjoy the messy reality of deployment.
+I focus on **robustness, security, and automation**. Whether it's debugging a runtime error in a serverless function, optimizing a torrent client for malware detection, or reducing bandwidth by 60% with a home-brew CDN. I enjoy the messy reality of deployment.
 
 ---
 
