@@ -11,9 +11,6 @@
     <a href="mailto:anshulpanigrahi3678@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="https://github.com/burntcookiedough">
       <img src="https://img.shields.io/badge/GitHub-burntcookiedough-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
