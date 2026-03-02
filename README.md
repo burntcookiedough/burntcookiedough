@@ -77,6 +77,6 @@ I host my own stats service on Vercel to manage runtime controls and API limits.
 ---
 
 <div align="center">
-  <p><b>Open to Internships in Cloud, DevOps, and Security.</b><br>
+  <p><b>Open to Internships in AI, Cloud, DevOps, and Security.</b><br>
   <i>Let's build something scalable.</i></p>
 </div>
