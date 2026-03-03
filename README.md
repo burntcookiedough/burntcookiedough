@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anshul%20Panigrahi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
 <!-- Animated Typing -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Edge+AI+%E2%80%A2+Zero-Trust+Security+%E2%80%A2+Cloud+Systems;Building+Privacy-First+ML+Infrastructure;VIT+Vellore+%7C+AI+%26+Systems+Engineering" alt="Typing SVG" />
 
@@ -91,87 +88,74 @@ class AnshulPanigrahi:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<!-- Project Cards -->
-<a href="https://github.com/burntcookiedough/Stella">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=Stella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
+### 🛡️ [AegisZone](https://github.com/burntcookiedough/AEGIS-ZONE)
+**Zero-Trust Endpoint Security**
 
-<a href="https://github.com/burntcookiedough/AEGIS-ZONE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=AEGIS-ZONE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
+Continuous biometric authentication + RF perimeter monitoring
 
-<a href="https://github.com/burntcookiedough/SecureTorrent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=SecureTorrent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
+**Tech:** Python • FastAPI • Next.js • ESP32 • Raspberry Pi
 
-<a href="https://github.com/burntcookiedough/Veridose">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=Veridose&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
+**Highlights:**
+- Sub-50ms key derivation latency
+- 0% false positives across 50+ cycles
 
-</div>
 
-<br/>
+</td>
+<td width="50%">
 
-### 🛡️ AegisZone - Zero-Trust Endpoint Security
-> **Continuous biometric authentication meets RF perimeter monitoring**
+### 💊 [Veri-Dose](https://github.com/burntcookiedough/Veridose)
+**Edge AI Healthcare**
 
-```bash
-✨ Features:
-├── ESP32-based PPG biometric sensors
-├── Real-time cryptographic key derivation (SHA-3 + AES-256)
-├── Distributed RF scanner network (2.4 GHz monitoring)
-├── Sub-50ms latency with 0% false positives
-└── Patent filed: R-IPR0002463P (In Review)
-```
-
-**Tech:** Python • FastAPI • Next.js • ESP32 • Raspberry Pi • WebSockets
-
----
-
-### 💊 Veri-Dose - Edge AI Healthcare
-> **Privacy-first smart pill dispenser running 100% offline**
-
-```bash
-🎯 Highlights:
-├── MobileNet quantized for Raspberry Pi (sub-100ms inference)
-├── 4 medication types, 400+ training images
-├── Zero cloud dependency = Complete privacy
-└── Patent Application: AI-Assisted Medication Dispenser
-```
+Privacy-first smart pill dispenser running 100% offline
 
 **Tech:** Python • TensorFlow Lite • MobileNet • Raspberry Pi
 
----
+**Highlights:**
+- Sub-100ms inference on edge device
+- 4 medication types, 400+ images
+- Patent Application Filed
 
-### 🔒 SecureTorrent - Real-Time Malware Detection
-> **Scanning torrents during download, not after**
 
-```bash
-🚨 Capabilities:
-├── 256KB chunk analysis with 3 YARA rules
-├── Random Forest classifier for partial file detection
-├── WebSocket live threat updates
-└── Automatic quarantine of malicious data
-```
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔒 [SecureTorrent](https://github.com/burntcookiedough/SecureTorrent)
+**Real-Time Malware Detection**
+
+Scanning torrents during download, not after
 
 **Tech:** Python • Flask • WebSockets • YARA • Random Forest
 
----
+**Highlights:**
+- 256KB chunk analysis
+- 3 YARA rules + ML classifier
+- WebSocket live threat updates
 
-### 🌟 Stella - Privacy-First Health Analytics
-> **Local LLM-powered health insights using Mistral 7B**
+</td>
+<td width="50%">
 
-```bash
-📊 Stats:
-├── Processed 31 days across 33 users (943 records)
-├── Tracks 29 health metrics with Z-score anomaly detection
-├── Identified 35 health events (sedentary, overtraining, sleep disruption)
-└── 100% local processing via Ollama (no cloud calls)
-```
+### 🌟 [Stella](https://github.com/burntcookiedough/Stella)
+**Privacy-First Health Analytics**
+
+Local LLM-powered health insights using Mistral 7B
 
 **Tech:** Python • FastAPI • Ollama • Mistral 7B • Streamlit
+
+**Highlights:**
+- Processed 31 days, 33 users (943 records)
+- 29 health metrics tracked
+- 35 anomalies detected with Z-score
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -266,25 +250,15 @@ class AnshulPanigrahi:
 
 ---
 
-## 📊 Visitor Count
+## 📊 Profile Views
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/burntcookiedough/count.svg" alt="Visitor Count" />
+![](https://komarev.com/ghpvc/?username=burntcookiedough&color=58A6FF&style=for-the-badge)
 
 </div>
 
 ---
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 <div align="center">
   
