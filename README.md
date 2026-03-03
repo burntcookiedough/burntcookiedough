@@ -1,35 +1,46 @@
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Edge+AI+%E2%80%A2+Zero-Trust+Security+%E2%80%A2+Cloud+Systems;Building+Privacy-First+ML+Infrastructure;VIT+Vellore+%7C+AI+%26+Systems+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Edge+AI+%E2%80%A2+Zero-Trust+Security+%E2%80%A2+Distributed+Systems;Building+Privacy-First+ML+Infrastructure;Information+Technology+%7C+VIT+Vellore" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔬_AI_Engineer-In_Training-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🛡️_Security_Focused-Always-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Edge_Computing-Specialist-FFE66D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-In%20Training-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security%20Focused-Always-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Edge%20Computing-Specialist-238636?style=flat-square" />
 </p>
 
-<!-- Social Links with Animated Icons -->
 <p align="center">
   <a href="mailto:anshulpanigrahi3678@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/anshul-panigrahi22">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/burntcookiedough">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 </div>
 
+<br/>
+
 ---
 
-## 🎯 What I Do
+<div align="center">
+
+## Philosophy
+
+*"Building systems that run, not just demos."*
+
+I focus on **robustness, security, and automation**. Whether it's deriving cryptographic keys from biometric entropy, detecting malware in real-time, or quantizing neural networks for edge devices — I build things that work in production.
+
+</div>
+
+---
+
+## What I Do
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
@@ -59,66 +70,65 @@ class AnshulPanigrahi:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-<!-- Animated Tech Stack -->
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,tensorflow,pytorch,fastapi,flask,docker,aws,linux,raspberrypi,nginx,git,github&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,tensorflow,pytorch,fastapi,flask,docker,aws,linux,raspberrypi,git,github,nginx&perline=7&theme=dark" />
 
 </div>
 
 <br/>
 
 <details>
-<summary>📦 <b>View Full Stack</b></summary>
+<summary>View Full Arsenal</summary>
 <br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| **Edge/IoT** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Security** | ![YARA](https://img.shields.io/badge/YARA-CC0000?style=flat-square) ![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=letsencrypt&logoColor=white) |
+| Domain | Technologies |
+|--------|-------------|
+| **Machine Learning** | TensorFlow Lite, Scikit-learn, Model Quantization, Inference Optimization |
+| **LLMs & AI** | Ollama, Mistral, MCP, Local Inference, Prompt Engineering |
+| **Backend Systems** | Python, FastAPI, Flask, REST APIs, Microservices Architecture |
+| **Edge Computing** | Raspberry Pi, ESP32, Real-time Systems, Model Deployment |
+| **Cloud & DevOps** | AWS Lambda, Docker, Linux, Git, CI/CD |
+| **Security** | YARA, Cryptography, Entropy Analysis, Malware Detection, RF Monitoring |
+| **Databases** | SQL, NoSQL |
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
-
+## Featured Work
+<div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ [AegisZone](https://github.com/burntcookiedough/AEGIS-ZONE)
-**Zero-Trust Endpoint Security**
+### [AegisZone](https://github.com/burntcookiedough/AEGIS-ZONE)
 
-Continuous biometric authentication + RF perimeter monitoring
+Zero-trust endpoint security using continuous biometric authentication and RF perimeter monitoring.
 
-**Tech:** Python • FastAPI • Next.js • ESP32 • Raspberry Pi
+**Stack:** Python · FastAPI · Next.js · ESP32 · Raspberry Pi · WebSockets
 
-**Highlights:**
-- Sub-50ms key derivation latency
-- 0% false positives across 50+ cycles
-
+**Key Metrics:**
+- Sub-50ms cryptographic key derivation
+- 0% false positives across 50+ test cycles
+- RF emitter detection within 1.5m radius
 
 </td>
 <td width="50%">
 
-### 💊 [Veri-Dose](https://github.com/burntcookiedough/Veridose)
-**Edge AI Healthcare**
+### [Veri-Dose](https://github.com/burntcookiedough/Veridose)
 
-Privacy-first smart pill dispenser running 100% offline
+Privacy-first smart pill dispenser running ML inference entirely offline on edge hardware.
 
-**Tech:** Python • TensorFlow Lite • MobileNet • Raspberry Pi
+**Stack:** Python · TensorFlow Lite · MobileNet · Raspberry Pi
 
-**Highlights:**
-- Sub-100ms inference on edge device
-- 4 medication types, 400+ images
-- Patent Application Filed
-
+**Key Metrics:**
+- Sub-100ms inference latency
+- 4 medication types recognized
+- 400 training images with augmentation
+- Patent application filed
 
 </td>
 </tr>
@@ -126,144 +136,135 @@ Privacy-first smart pill dispenser running 100% offline
 <tr>
 <td width="50%">
 
-### 🔒 [SecureTorrent](https://github.com/burntcookiedough/SecureTorrent)
-**Real-Time Malware Detection**
+### [SecureTorrent](https://github.com/burntcookiedough/SecureTorrent)
 
-Scanning torrents during download, not after
+Real-time malware detection for torrent downloads, scanning 256KB chunks during transfer.
 
-**Tech:** Python • Flask • WebSockets • YARA • Random Forest
+**Stack:** Python · Flask · WebSockets · YARA · Random Forest
 
-**Highlights:**
-- 256KB chunk analysis
-- 3 YARA rules + ML classifier
-- WebSocket live threat updates
+**Key Metrics:**
+- 3 YARA signature rules
+- Random Forest classifier for partial files
+- WebSocket-based live threat monitoring
+- Automatic malicious chunk quarantine
 
 </td>
 <td width="50%">
 
-### 🌟 [Stella](https://github.com/burntcookiedough/Stella)
-**Privacy-First Health Analytics**
+### [Stella](https://github.com/burntcookiedough/Stella)
 
-Local LLM-powered health insights using Mistral 7B
+Local LLM-powered health analytics platform processing wearable data with complete privacy.
 
-**Tech:** Python • FastAPI • Ollama • Mistral 7B • Streamlit
+**Stack:** Python · FastAPI · Ollama · Mistral 7B · Streamlit
 
-**Highlights:**
-- Processed 31 days, 33 users (943 records)
+**Key Metrics:**
+- 943 daily records processed (31 days, 33 users)
 - 29 health metrics tracked
-- 35 anomalies detected with Z-score
+- 35 anomalies detected via Z-score analysis
+- 100% local processing, zero cloud calls
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<!-- Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=burntcookiedough&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://github-readme-stats-seven-opal-46.vercel.app/api?username=burntcookiedough&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&custom_title=GitHub+Statistics" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=burntcookiedough&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=burntcookiedough&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=burntcookiedough&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=burntcookiedough&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&area_color=1F6FEB" />
 
-<!-- Language Stats -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burntcookiedough/burntcookiedough/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/burntcookiedough/burntcookiedough/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<img width="40%" src="https://github-readme-stats-seven-opal-46.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&custom_title=Primary+Languages" />
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications
 
 <div align="center">
 
-| Certification | Issuer | Date |
-|:---:|:---:|:---:|
-| 🎓 **Getting Started with Deep Learning** | NVIDIA | Mar 2026 |
-| ☁️ **OCI 2025 Certified AI Foundations Associate** | Oracle | Mar 2026 |
-| 💻 **Software Engineer Intern Certificate** | HackerRank | Feb 2026 |
-| 📊 **Intro to Machine Learning** | Kaggle | Feb 2026 |
+| Certification | Provider | Date |
+|:-------------|:--------:|:----:|
+| Getting Started with Deep Learning | NVIDIA | Mar 2026 |
+| OCI 2025 Certified AI Foundations Associate | Oracle | Mar 2026 |
+| Software Engineer Intern Certificate | HackerRank | Feb 2026 |
+| Intro to Machine Learning | Kaggle | Feb 2026 |
 
 </div>
+
+<br/>
 
 <div align="center">
 
-**🏅 Hackathon Wins**
+**Competition Placements**
 
-<img src="https://img.shields.io/badge/🥈_2nd_Place-IEEE_CS_Hackathon-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏆_Finalist-Yantra_Central_Hackathon-C0C0C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2nd%20Place-IEEE%20CS%20Hackathon-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/Finalist-Yantra%20Central%20Hackathon-1F6FEB?style=flat-square" />
 
 </div>
+
 
 ---
 
-## 📈 Contribution Graph
+## Current Focus
 
 <div align="center">
 
-<!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=burntcookiedough&custom_title=Contribution%20Graph&hide_border=true&theme=github-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area_color=1F6FEB&area=true" width="100%" />
-
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=burntcookiedough&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-
-</div>
-
----
-
-## 💡 Current Focus
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────┐
-│  🔬 Deploying ML models to edge devices │
-│  🛡️ Building zero-trust security systems│
-│  ☁️ Cloud infrastructure automation     │
-│  📡 IoT sensor networks & real-time data│
-└─────────────────────────────────────────┘
+```
+┌────────────────────────────────────────────────┐
+│  Deploying ML models to resource-constrained  │
+│  edge devices with sub-100ms latency          │
+│                                                │
+│  Building zero-trust security architectures   │
+│  with continuous biometric verification       │
+│                                                │
+│  Automating cloud infrastructure and          │
+│  optimizing real-time data pipelines          │
+└────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🎯 Open for Opportunities
+## Open for Opportunities
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀_AI_Engineer_Intern-Open-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔒_Security_ML_Roles-Interested-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️_Cloud_DevOps-Available-orange?style=for-the-badge" />
+Looking for **Summer 2026 Internships** in:
 
-**Looking for:** Summer 2026 Internships in AI/ML, Edge Computing, or Security Engineering
+AI/ML Engineering • Edge Computing • Security Engineering • Cloud Infrastructure
 
-📧 **Contact:** anshulpanigrahi3678@gmail.com  
-🔗 **LinkedIn:** [anshul-panigrahi22](https://linkedin.com/in/anshul-panigrahi22)
+<br/>
 
-</div>
-
----
-
-## 📊 Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=burntcookiedough&color=58A6FF&style=for-the-badge)
+<img src="https://img.shields.io/badge/AI%20Engineer%20Intern-Open-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Security%20ML%20Roles-Interested-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Cloud%20DevOps-Available-orange?style=flat-square" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💬 *"Building systems that run, not just demos."*
 
-**⭐ Star my repos if you find them useful!**
+![Profile Views](https://komarev.com/ghpvc/?username=burntcookiedough&color=58A6FF&style=flat-square)
+
+<br/>
+
+*Building systems that respect privacy and run in production.*
+
+**Star repositories you find useful**
 
 </div>
