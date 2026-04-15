@@ -250,7 +250,7 @@ AI/ML Engineering • Edge Computing • Security Engineering • Cloud Infrastr
 <br/>
 
 <img src="https://img.shields.io/badge/AI%20Engineer%20Intern-Open-success?style=flat-square" />
-<img src="https://img.shields.io/badge%20ML%20Roles-Interested-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/%20ML%20Roles-Interested-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Cloud%20DevOps-Available-orange?style=flat-square" />
 
 </div>
