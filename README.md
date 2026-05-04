@@ -163,12 +163,37 @@ The interesting part is the harness: context routing, tool interfaces, recovery 
 
 ## Certifications
 
-| Certification | Issuer | Date |
-|:---|:---:|:---:|
-| Getting Started with Deep Learning | NVIDIA DLI | Mar 2026 |
-| OCI 2025 AI Foundations Associate | Oracle | Mar 2026 |
-| Software Engineer Intern Certificate | HackerRank | Feb 2026 |
-| Intro to Machine Learning | Kaggle | Feb 2026 |
+<div align="center">
+
+<table>
+<tr>
+<th align="center">Certification</th>
+<th align="center">Issuer</th>
+<th align="center">Date</th>
+</tr>
+<tr>
+<td align="center">Getting Started with Deep Learning</td>
+<td align="center">NVIDIA DLI</td>
+<td align="center">Mar 2026</td>
+</tr>
+<tr>
+<td align="center">OCI 2025 AI Foundations Associate</td>
+<td align="center">Oracle</td>
+<td align="center">Mar 2026</td>
+</tr>
+<tr>
+<td align="center">Software Engineer Intern Certificate</td>
+<td align="center">HackerRank</td>
+<td align="center">Feb 2026</td>
+</tr>
+<tr>
+<td align="center">Intro to Machine Learning</td>
+<td align="center">Kaggle</td>
+<td align="center">Feb 2026</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
