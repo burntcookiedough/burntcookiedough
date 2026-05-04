@@ -27,7 +27,7 @@
 
 <br/>
 
-<sub>AI/ML internships | agent systems | edge inference | 2 patents filed</sub>
+<sub>AI/ML internships | agent systems | edge inference | 1 patents published</sub>
 
 </td>
 </tr>
