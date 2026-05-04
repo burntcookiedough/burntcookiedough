@@ -1,82 +1,98 @@
+<!-- black-lab dossier: first screen -> proof -> work -> technical depth -> signals -->
+
 <div align="center">
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="760">
+<td align="center" width="720">
 
-<samp>edge-runtime.ready / agent-harness.online / cloud.optional</samp>
+<samp>LOCAL_INFERENCE / AGENT_HARNESS / FAILURE_RECOVERY</samp>
 
 <h1>Anshul Panigrahi</h1>
 
-<samp><b>AI/ML Engineer</b> // Edge AI // Agentic Systems</samp>
+<samp>AI/ML Engineer building edge AI systems and tool-using agents</samp>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=650&color=C9D1D9&center=true&vCenter=true&width=720&lines=%3E+boot+local+LLM+runtime;%3E+route+context+through+tools;%3E+recover+from+bad+tool+calls;%3E+simulate+5%2C000+factory+machines;%3E+ship+models+where+latency+matters" alt="Boot sequence"/>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2300&pause=650&color=C9D1D9&center=true&vCenter=true&width=680&lines=%3E+route+context+to+the+right+tool;%3E+recover+from+bad+tool+calls;%3E+run+models+where+latency+matters;%3E+make+tiny+hardware+do+serious+work" alt="Current build loop"/>
 
 <br/>
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anshulpanigrahi3678@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-panigrahi22)
 [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/burntcookiedough)
-[![](https://img.shields.io/badge/VIT-0D1117?style=flat-square&logo=academia&logoColor=white)](https://vit.ac.in)
+[![](https://img.shields.io/badge/Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Anshul_Panigrahi.pdf)
 
 <br/>
 
-<sub>AI/ML internships | 2 patents filed | Edge AI | Agentic systems</sub>
+<sub>AI/ML internships | agent systems | edge inference | 2 patents filed</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161b22&height=3" width="100%"/>
+> [!IMPORTANT]
+> Actively looking for AI/ML internship roles where edge inference, tool-using agents, and industrial data matter more than demo-only chatbots.
 
-```yaml
-name:     Anshul Panigrahi
-role:     AI/ML Engineering Intern (actively looking)
-location: VIT Vellore, Tamil Nadu, India
-patents:  2   # yes. as a third-year. I am also surprised.
+<div align="center">
 
-focus:    [edge llms, agent recovery, industrial ml, embedded inference]
-building: "Multi-agent workflow — Hermes Agent + custom tool harness"
-proof:    "31 days of wearable anomalies explained locally by Stella"
+<table>
+<tr>
+<td align="center"><sub>patents</sub><br/><kbd>2 filed</kbd></td>
+<td align="center"><sub>scale</sub><br/><kbd>5,000 machines</kbd></td>
+<td align="center"><sub>edge</sub><br/><kbd>&lt;100ms inference</kbd></td>
+<td align="center"><sub>agents</sub><br/><kbd>recovery pipelines</kbd></td>
+</tr>
+</table>
+
+</div>
+
+```toml
+[profile]
+name = "Anshul Panigrahi"
+role = "AI/ML Engineering Intern"
+location = "VIT Vellore, Tamil Nadu, India"
+current_build = "Hermes Agent + custom tool harness"
+
+[operating_rules]
+cloud = "optional"
+failure = "recover, verify, hand off"
+target = "edge AI, industrial ML, embedded inference"
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0D1117&height=3" width="100%"/>
 
 ---
 
-## The Work
+## Case Files
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Real-Time Predictive Maintenance**
-*Patent Application Filed — Feb. 2026*
+**Real-Time Predictive Maintenance**<br/>
+<sub>Patent application filed | Feb 2026</sub>
 
-Kafka, Spark, Cassandra, PyTorch, and graph analytics across 5,000 simulated factory machines to predict cascade failures before the first machine goes down.
+Kafka, Spark, Cassandra, PyTorch, and graph analytics across 5,000 simulated factory machines to predict cascade failures before downtime.
 
-`98% accuracy` `F1: 0.96` `AUC: 0.99` `<12ms latency`
+`98% accuracy` `F1 0.96` `AUC 0.99` `<12ms latency`
 
-[View Repository](https://github.com/burntcookiedough/Real-Time-Predictive-Maintenance)
+[Repository](https://github.com/burntcookiedough/Real-Time-Predictive-Maintenance)
 
 </td>
 <td width="50%" valign="top">
 
 **Physical-Bounded Multimodal Mode Discovery**
 
-Unsupervised fault discovery on NASA CMAPSS and CWRU. HDBSCAN finds candidate regimes; physics constraints reject clusters that violate thermodynamics or vibration limits.
+Unsupervised fault discovery on NASA CMAPSS and CWRU. HDBSCAN proposes regimes; physics constraints reject invalid vibration and thermodynamic behavior.
 
-`80% physics constraint pass rate` `Zero labeled training data`
+`zero labels` `7 CMAPSS regimes` `8 CWRU regimes`
 
-[View Repository](https://github.com/burntcookiedough/Physical-Bounded-Multimodal-Mode-Discovery)
+[Repository](https://github.com/burntcookiedough/Physical-Bounded-Multimodal-Mode-Discovery)
 
 </td>
 </tr>
@@ -85,23 +101,23 @@ Unsupervised fault discovery on NASA CMAPSS and CWRU. HDBSCAN finds candidate re
 
 **Stella**
 
-On-device health assistant with Mistral 7B via Ollama. Wearable anomalies feed into the model as local context, with no cloud calls.
+On-device health assistant with Mistral 7B via Ollama. Wearable anomalies become local context, keeping personal health queries off the cloud.
 
 `29 metrics` `33 users` `100% local` `0 cloud calls`
 
-[View Repository](https://github.com/burntcookiedough/Stella)
+[Repository](https://github.com/burntcookiedough/Stella)
 
 </td>
 <td width="50%" valign="top">
 
-**Veri-Dose**
-*Patent Published — Mar. 2026 · IN202641027860 A1*
+**Veri-Dose**<br/>
+<sub>Patent published | Mar 2026 | IN202641027860 A1</sub>
 
-Smart medication dispenser using quantized MobileNetV2 on Raspberry Pi 4. Confidence calibration sends low-certainty predictions to a human fallback.
+Smart medication dispenser using quantized MobileNetV2 on Raspberry Pi 4. Low-confidence predictions route to a human fallback.
 
-`<100ms inference` `Offline` `Raspberry Pi 4`
+`<100ms inference` `offline` `Raspberry Pi 4`
 
-[View Repository](https://github.com/burntcookiedough/Veridose)
+[Repository](https://github.com/burntcookiedough/Veridose)
 
 </td>
 </tr>
@@ -109,15 +125,36 @@ Smart medication dispenser using quantized MobileNetV2 on Raspberry Pi 4. Confid
 
 ---
 
-## How I Think About Agents
+## Agent Harness
 
-I am not building chatbots. I am building systems where models **plan, call tools, recover from failure, and hand off to other models** when they are out of their depth.
+I am not building chatbots. I am building systems where models plan, call tools, recover from failure, and hand off when another model or tool is a better fit.
 
-The interesting part is the harness: context routing, tool interfaces, recovery policies, and deciding when a model should hand off instead of pretending it knows enough. Current stack: N8N, Claude Code, OpenAI Codex, Cursor Agent SDK, OpenClaw, Hermes, and custom tool pipelines when frameworks get in the way.
+<details>
+<summary><b>open agent harness</b></summary>
+
+The model is not the product. The harness is: context routing, tool contracts, verification, recovery policy, and handoff logic.
+
+```mermaid
+flowchart LR
+    A["input"] --> B["context router"]
+    B --> C["planner model"]
+    C --> D["tool call"]
+    D --> E{"verified?"}
+    E -->|yes| F["ship action"]
+    E -->|no| G["recover"]
+    G --> H{"specialist needed?"}
+    H -->|yes| I["sub-agent"]
+    H -->|no| C
+    I --> F
+```
+
+Current stack: N8N, Claude Code, OpenAI Codex, Cursor Agent SDK, OpenClaw, Hermes, and custom tool pipelines when frameworks get in the way.
+
+</details>
 
 ---
 
-## Tech
+## Stack
 
 <div align="center">
 
@@ -136,22 +173,22 @@ The interesting part is the harness: context routing, tool interfaces, recovery 
 
 ---
 
-## GitHub Stats
+## GitHub Signals
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burntcookiedough&theme=github_dark" width="92%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burntcookiedough&theme=github_dark" width="89%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burntcookiedough&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burntcookiedough&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=burntcookiedough&theme=github_dark" width="43%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burntcookiedough&theme=github_dark" width="43%"/>
 
 </div>
 
 ---
 
-## The Snake Ate My Contributions
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burntcookiedough/burntcookiedough/output/github-snake-dark.svg"/>
@@ -199,17 +236,24 @@ The interesting part is the harness: context routing, tool interfaces, recovery 
 
 ## Competitions
 
+<div align="center">
+
 [![](https://img.shields.io/badge/2nd_Place-IEEE_CS_Hackathon_2025-00629B?style=flat-square&logo=ieee&logoColor=white)](https://github.com/burntcookiedough)
-&nbsp;
 [![](https://img.shields.io/badge/Finalist-Yantra_Central_Hackathon_2025-1F6FEB?style=flat-square)](https://github.com/burntcookiedough)
+
+</div>
 
 ---
 
 <div align="center">
 
-*If your model needs the cloud to run, we have different philosophies.*
+<samp>If your model needs the cloud to run, we have different philosophies.</samp>
 
-*If your agent cannot recover from a bad tool call, it is not an agent — it is a very slow API.*
+<br/>
+
+<samp>If your agent cannot recover from a bad tool call, it is not an agent. It is a very slow API.</samp>
+
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=burntcookiedough&color=0D1117&style=flat-square&label=profile+views)](https://github.com/burntcookiedough)
 
