@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Anshul%20Panigrahi&fontSize=70&color=0:0D1117,100:1a1a2e&fontColor=58A6FF&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Edge%20AI%20%C2%B7%20Agentic%20Systems&descSize=18&descAlignY=72&fontAlignY=45&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=285&text=Anshul%20Panigrahi&fontSize=70&color=0:0D1117,50:111827,100:1a1a2e&fontColor=58A6FF&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Edge%20AI%20%7C%20Agentic%20Systems&descSize=18&descAlignY=72&fontAlignY=44&stroke=58A6FF&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+agents+that+actually+do+things;Running+LLMs+on+a+Raspberry+Pi+because+why+not;Patent+holder+at+year+2+of+undergrad;Making+5%2C000+factory+machines+talk+to+each+other;The+cloud+is+optional.+The+edge+is+home.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2900&pause=750&color=58A6FF&center=true&vCenter=true&width=860&lines=Building+agents+that+plan%2C+act%2C+recover%2C+and+handoff;Running+LLMs+on+a+Raspberry+Pi+because+the+edge+can+handle+it;Patent+holder+in+undergrad.+Still+shipping.;Making+5%2C000+factory+machines+talk+before+they+fail;The+cloud+is+optional.+The+edge+is+home.)
 
 <br/>
 
@@ -10,6 +10,13 @@
 [![](https://img.shields.io/badge/-anshul--panigrahi22-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anshul-panigrahi22)
 [![](https://img.shields.io/badge/-burntcookiedough-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/burntcookiedough)
 [![](https://img.shields.io/badge/VIT%20Vellore-BTech%20IT%20%7C%20Batch%202027-0D1117?style=flat-square&logoColor=58A6FF)](https://vit.ac.in)
+
+<br/><br/>
+
+![Open to AI/ML internships](https://img.shields.io/badge/Open_to-AI%2FML_Internships-238636?style=for-the-badge&labelColor=0D1117)
+![2 patent filings](https://img.shields.io/badge/Patents-2_Filed-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Edge first](https://img.shields.io/badge/Default-Edge_First-58A6FF?style=for-the-badge&labelColor=0D1117&color=1F6FEB)
+![Agent systems](https://img.shields.io/badge/Focus-Agentic_Systems-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF)
 
 </div>
 
@@ -98,6 +105,21 @@ Smart medication dispenser. MobileNetV2 fine-tuned for 4-class pill classificati
 
 ---
 
+## Control Panel
+
+<div align="center">
+
+| Signal | What it means |
+|:---:|:---|
+| **Edge AI** | Local inference first. Cloud only when it earns the latency, privacy, and cost tradeoff. |
+| **Agent Harnesses** | Tool calls, context routing, recovery paths, and model handoffs over plain chatbot loops. |
+| **Industrial ML** | Predictive maintenance, sensor streams, graph failure propagation, and systems that survive noisy data. |
+| **Healthcare AI** | Offline inference, calibrated confidence, and human fallback where mistakes have real cost. |
+
+</div>
+
+---
+
 ## How I Think About Agents
 
 I am not building chatbots. I am building systems where models **plan, call tools, recover from failure, and hand off to other models** when they are out of their depth.
@@ -106,21 +128,49 @@ The part that actually interests me is not the model — it is the harness. How 
 
 Current stack: N8N for orchestration, Claude Code and OpenAI Codex for agentic coding workflows, Cursor Agent SDK for development automation, OpenClaw and Hermes for agent tooling. Building custom pipelines from scratch when frameworks get in the way.
 
+```mermaid
+flowchart LR
+    A["Input signal"] --> B["Context router"]
+    B --> C["Planner model"]
+    C --> D["Tool call"]
+    D --> E{"Did it work?"}
+    E -->|yes| F["Verify result"]
+    E -->|no| G["Recovery policy"]
+    G --> C
+    F --> H{"Need specialist?"}
+    H -->|yes| I["Sub-agent handoff"]
+    H -->|no| J["Final answer or action"]
+    I --> F
+```
+
 ---
 
 ## Tech
 
-[![](https://github-widgetbox.vercel.app/api/skills?languages=python,bash,sql&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<div align="center">
 
-[![](https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow,pytorch&tools=docker,git,linux&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<img height="36" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,flask,docker,git,linux,bash,kafka,cassandra,sqlite,raspberrypi,arduino&theme=dark&perline=15" />
 
-[![](https://github-widgetbox.vercel.app/api/skills?frameworks=fastapi,flask,next&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<br/><br/>
+
+![On-device LLMs](https://img.shields.io/badge/On--device_LLMs-0D1117?style=flat-square&labelColor=161B22&color=58A6FF)
+![Agent orchestration](https://img.shields.io/badge/Agent_Orchestration-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB)
+![Predictive maintenance](https://img.shields.io/badge/Predictive_Maintenance-0D1117?style=flat-square&labelColor=161B22&color=238636)
+![Fault detection](https://img.shields.io/badge/Fault_Detection-0D1117?style=flat-square&labelColor=161B22&color=58A6FF)
+![Raspberry Pi inference](https://img.shields.io/badge/Raspberry_Pi_Inference-0D1117?style=flat-square&labelColor=161B22&color=C51A4A)
+![Kafka Spark Cassandra](https://img.shields.io/badge/Kafka_Spark_Cassandra-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB)
+
+</div>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burntcookiedough&theme=github_dark" width="100%"/>
+
+<br/><br/>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burntcookiedough&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&custom_title=Stats)](https://github.com/burntcookiedough)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burntcookiedough&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)](https://github.com/burntcookiedough)
