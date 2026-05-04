@@ -68,6 +68,21 @@ target = "edge AI, industrial ML, embedded inference"
 
 ---
 
+## Repository Map
+
+<div align="center">
+
+| Track | Repositories |
+|:---:|:---|
+| **Flagship AI/ML** | Predictive Maintenance `(private/on request)` · [Mode Discovery](https://github.com/burntcookiedough/Physical-Bounded-Multimodal-Mode-Discovery) · [Stella](https://github.com/burntcookiedough/Stella) · [Veri-Dose](https://github.com/burntcookiedough/Veridose) |
+| **Agents + Systems** | [Cognitive Load Scheduler](https://github.com/burntcookiedough/Cognitive-Load-Aware-Distributed-Task-Scheduler) · [Aether Dashboard](https://github.com/burntcookiedough/aether-dashboard) |
+| **Edge + IoT** | [Vision Air Sim](https://github.com/burntcookiedough/vision-augmented-air-sim) · [Air Safety Assistant](https://github.com/burntcookiedough/Edge-Deployed-Air-Safety-Assistant) · [Smart Energy](https://github.com/burntcookiedough/Smart-Energy-Monitoring-System) |
+| **Vision + Security** | [Face Privacy Filter](https://github.com/burntcookiedough/Face-Privacy-Filter) · [Sobel CUDA](https://github.com/burntcookiedough/Sobel-Edge-Detection) · [QR Security](https://github.com/burntcookiedough/QR-Code-Security-System) · [SecureTorrent](https://github.com/burntcookiedough/SecureTorrent) |
+
+</div>
+
+---
+
 ## Case Files
 
 <table>
@@ -81,7 +96,7 @@ Kafka, Spark, Cassandra, PyTorch, and graph analytics across 5,000 simulated fac
 
 `98% accuracy` `F1 0.96` `AUC 0.99` `<12ms latency`
 
-[Repository](https://github.com/burntcookiedough/Real-Time-Predictive-Maintenance)
+Repository available on request.
 
 </td>
 <td width="50%" valign="top">
