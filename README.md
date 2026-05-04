@@ -44,7 +44,7 @@
 
 <table>
 <tr>
-<td align="center"><sub>patents</sub><br/><kbd>2 filed</kbd></td>
+<td align="center"><sub>patents</sub><br/><kbd>1 published</kbd></td>
 <td align="center"><sub>scale</sub><br/><kbd>5,000 machines</kbd></td>
 <td align="center"><sub>edge</sub><br/><kbd>&lt;100ms inference</kbd></td>
 <td align="center"><sub>agents</sub><br/><kbd>recovery pipelines</kbd></td>
