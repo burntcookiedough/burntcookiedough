@@ -1,22 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=285&text=Anshul%20Panigrahi&fontSize=70&color=0:0D1117,50:111827,100:1a1a2e&fontColor=58A6FF&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Edge%20AI%20%7C%20Agentic%20Systems&descSize=18&descAlignY=72&fontAlignY=44&stroke=58A6FF&strokeWidth=1" width="100%"/>
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2900&pause=750&color=58A6FF&center=true&vCenter=true&width=860&lines=Building+agents+that+plan%2C+act%2C+recover%2C+and+handoff;Running+LLMs+on+a+Raspberry+Pi+because+the+edge+can+handle+it;Patent+holder+in+undergrad.+Still+shipping.;Making+5%2C000+factory+machines+talk+before+they+fail;The+cloud+is+optional.+The+edge+is+home.)
+<br/>
+
+<table>
+<tr>
+<td align="center" width="900">
+
+<samp>edge-runtime.ready / agent-harness.online / cloud.optional</samp>
+
+<h1>Anshul Panigrahi</h1>
+
+<samp><b>AI/ML Engineer</b> // Edge AI // Agentic Systems</samp>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2400&pause=650&color=3FB950&center=true&vCenter=true&width=820&lines=%3E+boot+local+LLM+runtime;%3E+route+context+through+tools;%3E+recover+from+bad+tool+calls;%3E+simulate+5%2C000+factory+machines;%3E+ship+models+where+latency+matters" alt="Boot sequence"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 [![](https://img.shields.io/badge/-anshulpanigrahi3678%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:anshulpanigrahi3678@gmail.com)
 [![](https://img.shields.io/badge/-anshul--panigrahi22-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anshul-panigrahi22)
 [![](https://img.shields.io/badge/-burntcookiedough-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/burntcookiedough)
-[![](https://img.shields.io/badge/VIT%20Vellore-BTech%20IT%20%7C%20Batch%202027-0D1117?style=flat-square&logoColor=58A6FF)](https://vit.ac.in)
+[![](https://img.shields.io/badge/VIT%20Vellore-BTech%20IT%20%7C%20Batch%202027-0D1117?style=flat-square&logoColor=3FB950)](https://vit.ac.in)
 
 <br/><br/>
 
 ![Open to AI/ML internships](https://img.shields.io/badge/Open_to-AI%2FML_Internships-238636?style=for-the-badge&labelColor=0D1117)
-![2 patent filings](https://img.shields.io/badge/Patents-2_Filed-1F6FEB?style=for-the-badge&labelColor=0D1117)
-![Edge first](https://img.shields.io/badge/Default-Edge_First-58A6FF?style=for-the-badge&labelColor=0D1117&color=1F6FEB)
-![Agent systems](https://img.shields.io/badge/Focus-Agentic_Systems-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF)
+![2 patent filings](https://img.shields.io/badge/Patents-2_Filed-D29922?style=for-the-badge&labelColor=0D1117)
+![Edge first](https://img.shields.io/badge/Default-Edge_First-3FB950?style=for-the-badge&labelColor=0D1117&color=238636)
+![Agent systems](https://img.shields.io/badge/Focus-Agentic_Systems-A371F7?style=for-the-badge&labelColor=161B22)
 
 </div>
 
