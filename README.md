@@ -126,17 +126,6 @@ Medication verification using quantized MobileNetV2 on Raspberry Pi 4. Low-confi
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/burntcookiedough/eve-windows-dictation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=eve-windows-dictation&theme=github_dark&hide_border=true&show_owner=false" width="47%" alt="Eve repository card"/>
-</a>
-<a href="https://github.com/burntcookiedough/ZRead">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=burntcookiedough&repo=ZRead&theme=github_dark&hide_border=true&show_owner=false" width="47%" alt="ZRead repository card"/>
-</a>
-
-</div>
-
 ---
 
 ## `02 / problem_first`
