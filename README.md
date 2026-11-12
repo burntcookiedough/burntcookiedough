@@ -222,6 +222,7 @@ IBM Agentic AI · NVIDIA DLI Deep Learning · Oracle OCI AI Foundations.
 - Portfolio: <https://burntcookiedough.github.io/>
 - Full profile as Markdown: [profile.md](https://burntcookiedough.github.io/profile.md) · JSON Resume: [resume.json](https://burntcookiedough.github.io/resume.json) · Agent map: [llms.txt](https://burntcookiedough.github.io/llms.txt)
 - Contact: anshulpanigrahi3678@gmail.com
+- Ask your AI assistant about me: [anshul-portfolio-mcp](https://github.com/burntcookiedough/anshul-portfolio-mcp), an MCP server with my profile, projects and patents as tools. `claude mcp add anshul -- npx -y github:burntcookiedough/anshul-portfolio-mcp`
 
 ---
 
