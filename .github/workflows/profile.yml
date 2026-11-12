@@ -1,0 +1,50 @@
+name: Profile cards
+
+# Rebuilds the live images on the profile README, in the portfolio's riso
+# cobalt-and-cream style: stats.svg (our own) and the contribution snake.
+# Both publish to the `output` branch together, so neither overwrites the other.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Stats card
+        run: |
+          npm install --no-save --no-audit --no-fund @resvg/resvg-js@2.6.2
+          node scripts/cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Contribution snake (cobalt on light, cream on dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#1d36d6&color_dots=#e9ebf6,#c3cbf2,#8fa1ec,#3552dc,#1d36d6
+            dist/github-snake-dark.svg?color_snake=#efe4cc&color_dots=#161f55,#24349a,#3552dc,#8fa1ec,#efe4cc
+
+      - name: Publish to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update profile cards [skip ci]"
