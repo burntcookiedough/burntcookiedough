@@ -192,6 +192,10 @@ Co-developed SpineGuard in a 5-member team. Yantra Central Hackathon finalist.
 <tr>
 <td width="50%" valign="top">
 
+**Open source**
+
+Merged into [Repowise](https://github.com/repowise-dev/repowise) (8.1k★): [fixed incremental updates that silently read no stored data under a configured database](https://github.com/repowise-dev/repowise/pull/5399), with regression tests.
+
 **Patents**
 
 `03 published` · co-inventor
