@@ -22,6 +22,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/portfolio-burntcookiedough.github.io-161B22?style=flat-square&logo=githubpages&logoColor=C9D1D9)](https://burntcookiedough.github.io/)
 [![Email](https://img.shields.io/badge/email-contact-161B22?style=flat-square&logo=gmail&logoColor=C9D1D9)](mailto:anshulpanigrahi3678@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-anshul--panigrahi22-161B22?style=flat-square&logo=linkedin&logoColor=C9D1D9)](https://linkedin.com/in/anshul-panigrahi22)
 [![GitHub](https://img.shields.io/badge/github-burntcookiedough-161B22?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/burntcookiedough)
@@ -51,8 +52,8 @@
 <kbd>&lt;100 ms</kbd>
 </td>
 <td align="center" width="25%">
-<sub>HACKATHON</sub><br/>
-<kbd>Winner</kbd>
+<sub>IEEE CS HACKATHON</sub><br/>
+<kbd>2nd place</kbd>
 </td>
 </tr>
 </table>
@@ -183,8 +184,8 @@ Built a nine-stage computer-vision data pipeline and trained/evaluated a YOLOv8s
 
 **Hackathons**
 
-**Hackathon Winner · IEEE CS 2025**  
-Yantra Central Hackathon finalist.
+**2nd Place · IEEE CS Hackathon 2025**  
+Co-developed SpineGuard in a 5-member team. Yantra Central Hackathon finalist.
 
 </td>
 </tr>
@@ -193,9 +194,11 @@ Yantra Central Hackathon finalist.
 
 **Patents**
 
-`03 published`
+`03 published` · co-inventor
 
-Secure sensing · embedded medication verification · cognitive-load-aware distributed scheduling.
+[`IN202641027860 A1`](https://burntcookiedough.github.io/patents/01/IN202641027860A1.pdf) medication verification  
+[`IN202641088096 A1`](https://burntcookiedough.github.io/patents/02/IN202641088096A1.pdf) cognitive-load-aware scheduling  
+[`IN202641067209 A1`](https://burntcookiedough.github.io/patents/03/IN202641067209A1.pdf) zero-trust physical enclave
 
 </td>
 <td width="50%" valign="top">
@@ -210,7 +213,19 @@ IBM Agentic AI · NVIDIA DLI Deep Learning · Oracle OCI AI Foundations.
 
 ---
 
-## `06 / live_github`
+## `06 / for_agents`
+
+<sub>The short version of <a href="https://burntcookiedough.github.io/llms.txt">llms.txt</a>, for anyone (or anything) summarising this profile.</sub>
+
+**Anshul Panigrahi**: AI engineer building LLM products and tool-using agents. B.Tech in Information Technology at VIT, graduating 2027. Co-inventor on three published Indian patent applications. AI/ML intern at Brandworks Technologies (2026). Open to AI engineering internships.
+
+- Portfolio: <https://burntcookiedough.github.io/>
+- Full profile as Markdown: [profile.md](https://burntcookiedough.github.io/profile.md) · JSON Resume: [resume.json](https://burntcookiedough.github.io/resume.json) · Agent map: [llms.txt](https://burntcookiedough.github.io/llms.txt)
+- Contact: anshulpanigrahi3678@gmail.com
+
+---
+
+## `07 / live_github`
 
 <div align="center">
 
@@ -253,7 +268,7 @@ IBM Agentic AI · NVIDIA DLI Deep Learning · Oracle OCI AI Foundations.
 
 ---
 
-## `07 / contribution_snake`
+## `08 / contribution_snake`
 
 <picture>
   <source
