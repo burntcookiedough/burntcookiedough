@@ -7,7 +7,7 @@
 <a href="https://burntcookiedough.github.io/"><img src="assets/hero.jpg" alt="Anshul Panigrahi. AI engineer: LLM agents, tool use. Problem first. Tool second." width="100%"></a>
 
 <p align="center">
-  <a href="https://burntcookiedough.github.io/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://drive.google.com/file/d/19As7v83n54BxIKbTP4S1Tt3fajsoTIfs/view?usp=sharing">Resume</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/anshul-panigrahi22">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:anshulpanigrahi3678@gmail.com">Email</a>
+  <a href="https://burntcookiedough.github.io/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://drive.google.com/file/d/1iVJAJnojFs2xtPHplfOZ0s6a-u1Kz-KO/view?usp=sharing">Resume</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/anshul-panigrahi22">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:anshulpanigrahi3678@gmail.com">Email</a>
 </p>
 
 **Open to AI engineering internships** with product teams shipping LLM features, agents and tool use, and the systems that keep them reliable.
