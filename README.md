@@ -15,7 +15,7 @@
 <sub>ASK YOUR AI ABOUT ME · my profile, projects and patents as an <a href="https://github.com/burntcookiedough/anshul-portfolio-mcp">MCP server</a></sub>
 
 ```
-claude mcp add anshul -- npx -y github:burntcookiedough/anshul-portfolio-mcp
+claude mcp add anshul -- npx -y anshul-portfolio-mcp
 ```
 
 <sub>currently building → <b>Hermes Agent + custom tool harness</b></sub>
