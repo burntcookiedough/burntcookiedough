@@ -5,7 +5,7 @@
 <clipPath id="bar"><rect x="56" y="296" width="1088" height="40" rx="6"/></clipPath>
 </defs>
 <rect width="1200" height="430" rx="14" fill="url(#bg)"/>
-<text x="56" y="62" font-family="Card Mono" font-size="15" letter-spacing="2.4" fill="#efe4cc" fill-opacity=".85">LIVE FROM GITHUB · @BURNTCOOKIEDOUGH · UPDATED 2026-11-13</text>
+<text x="56" y="62" font-family="Card Mono" font-size="15" letter-spacing="2.4" fill="#efe4cc" fill-opacity=".85">LIVE FROM GITHUB · @BURNTCOOKIEDOUGH · UPDATED 2026-11-14</text>
 <path transform="translate(1122 52) scale(.3)" fill="#efe4cc" d="M0 -50 C3 -12 12 -3 50 0 C12 3 3 12 0 50 C-3 12 -12 3 -50 0 C-12 -3 -3 -12 0 -50Z"/>
 <text x="56.0" y="172" font-family="Card Display" font-size="84" fill="#efe4cc">1,080</text><text x="56.0" y="206" font-family="Card Text" font-size="17" fill="#efe4cc" fill-opacity=".92">contributions, last 12 months</text>
 <text x="328.0" y="172" font-family="Card Display" font-size="84" fill="#efe4cc">29</text><text x="328.0" y="206" font-family="Card Text" font-size="17" fill="#efe4cc" fill-opacity=".92">public repositories</text>
